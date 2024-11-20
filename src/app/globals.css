@@ -2,3 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+    --background: #111111;
+    --primary: #7f00b8;
+    --light: #878485;
+    --dark: #1A1A1A;
+}

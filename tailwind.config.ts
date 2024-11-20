@@ -10,8 +10,13 @@ export default {
     extend: {
       colors: {
         background: "var(--background)",
-        foreground: "var(--foreground)",
+        primary: "var(--primary)",
+        light: "var(--light)",
+        dark: "var(--dark)"
       },
+      fontFamily: {
+        "primary": "var(--primary-font)"
+      }
     },
   },
   plugins: [],

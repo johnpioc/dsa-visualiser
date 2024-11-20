@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
 import { Poppins } from 'next/font/google';
 
-import "./globals.css";
+import "../globals.css";
 
 export const metadata: Metadata = {
-  title: "Data Structures & Algorithms Visualiser",
+  title: "Linked List",
   description: "Explore the world of data structures and algorithms with interactive explanations and visualizations. Understand complex concepts through clear descriptions and dynamic visuals designed to make learning easy and engaging.",
 };
 
